@@ -1,0 +1,39 @@
+{
+  "employs": [
+    {
+      "id": 1,
+      "employname": "ritik",
+      "employemail": "ritik@example.com",
+      "employnumber": "555555555",
+      "employrole": "admin"
+    },
+    {
+      "id": 2,
+      "employname": "ritik2",
+      "employemail": "ritik2@example.com",
+      "employnumber": "555555555",
+      "employrole": "developer"
+    },
+    {
+      "id": 3,
+      "employname": "ritik3",
+      "employemail": "ritik3@example.com",
+      "employnumber": "555555555",
+      "employrole": "tester"
+    },
+    {
+      "employname": "ritik4",
+      "employemail": "ritik4@gmail.com",
+      "employnumber": "02222222222",
+      "employrole": "web developer",
+      "id": 4
+    },
+    {
+      "employname": "hiren",
+      "employemail": "hien@gmail.com",
+      "employnumber": "222222222",
+      "employrole": "wordpress developer",
+      "id": 9
+    }
+  ]
+}
